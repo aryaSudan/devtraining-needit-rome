@@ -11,9 +11,9 @@ pool:
 
 steps:
 - script: echo Hello, world!
-  displayName: 'Step1'
+  displayName: 'StepTest1'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
-  displayName: 'Step2'
+  displayName: 'StepTest2'
